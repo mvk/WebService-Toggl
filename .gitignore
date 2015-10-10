@@ -4,7 +4,8 @@
 /Build.bat
 /blib
 /Makefile
-
+/.idea
+./*.iml
 /carton.lock
 /.carton/
 /local/
